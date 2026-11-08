@@ -1,6 +1,6 @@
 # Build yocto for raspberry pi 4 or 5
 
-## Welcom
+## Welcome
 
 Welcome! This is a brief guide on building a Raspberry Pi (4 or 5) image using the Yocto Project. You will use the Yocto Project to build a reference operating system named Poky.
 
