@@ -6,7 +6,7 @@ Welcome! This is a brief guide on building a Raspberry Pi (4 or 5) image using t
 
 This project is implemented specifically for the Raspberry Pi board. The primary reference source is: [https://docs.yoctoproject.org/6.0/index.html](https://docs.yoctoproject.org/6.0/index.html)
 ---
-### Link dowload Imager for raspberry pi 4
+### Link dowload Images for raspberry pi 4
 link : https://drive.google.com/file/d/1BeTwrJgJrftdyocIphyfQraGfj0eLWLw/view?usp=sharing
 ---
 ## 📑 Table of Contents
