@@ -1,4 +1,4 @@
-# BUILD YOCTO FOR raspberry pi 4 or 5
+# Build yocto for raspberry pi 4 or 5
 
 ## Welcom
 
